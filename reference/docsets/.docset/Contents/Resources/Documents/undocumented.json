@@ -1,0 +1,96 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Catchable.swift",
+      "line": 44,
+      "symbol": "PMKFinalizer",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Error.swift",
+      "line": null,
+      "symbol": "PMKError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Error.swift",
+      "line": null,
+      "symbol": "PMKError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Error.swift",
+      "line": 3,
+      "symbol": "PMKError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Error.swift",
+      "line": 70,
+      "symbol": "Error.isCancelled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Guarantee.swift",
+      "line": 69,
+      "symbol": "Guarantee.done(on:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Guarantee.swift",
+      "line": 80,
+      "symbol": "Guarantee.map(on:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Guarantee.swift",
+      "line": 91,
+      "symbol": "Guarantee.then(on:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Guarantee.swift",
+      "line": 101,
+      "symbol": "Guarantee.asVoid()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Guarantee.swift",
+      "line": 130,
+      "symbol": "Guarantee.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Promise.swift",
+      "line": 184,
+      "symbol": "PMKNamespacer.promise",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/Resolver.swift",
+      "line": 60,
+      "symbol": "Resolver.resolve(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mxcl/src/PromiseKit/Sources/when.swift",
+      "line": 261,
+      "symbol": "when(guarantees:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/mxcl/src/PromiseKit"
+}
