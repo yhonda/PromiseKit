@@ -159,7 +159,7 @@ you get error transmission when `nil` is returned, for example:
 firstly {
     URLSession.shared.dataTask(.promise, with: url)
 }.compactMap {
-    try JSONDecoder().decode(Foo.self, with: $0.data)
+    String(data: $0.data, encoding: .utf8)  // returns `String?`
 }.done {
     //…
 }.catch {
